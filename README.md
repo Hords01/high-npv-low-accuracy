@@ -65,7 +65,7 @@ This approach prioritizes not just statistical correctness but **human lives** b
 
 ##
 
-![NPV Confusion Matrix](confusion_matrices_EN.png)
+![NPV Confusion Matrix](confusion_matrix_EN.png)
 
 The Excel-based visual included in this repository shows:
 - Confusion matrix with labeled cells (TP, FP, FN, TN)
