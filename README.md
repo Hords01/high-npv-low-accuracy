@@ -70,7 +70,7 @@ This approach prioritizes not just statistical correctness but **human lives** b
 
 ![NPV Confusion Matrix](confusion_matrix_EN.png)
 *Figure: Confusion matrix showing the relationship between predicted and actual classes.*
-
+##
 The Excel-based visual included in this repository shows:
 - Confusion matrix with labeled cells (TP, FP, FN, TN)
 - Descriptions of error types and core metric formulas
