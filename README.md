@@ -67,6 +67,7 @@ This approach prioritizes not just statistical correctness but **human lives** b
 <p align="center">
   <strong>Confusion Matrix: Predicted vs Actual</strong><br/>
 </p>
+
 ![NPV Confusion Matrix](confusion_matrix_EN.png)
 *Figure: Confusion matrix showing the relationship between predicted and actual classes.*
 
