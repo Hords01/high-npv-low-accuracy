@@ -63,7 +63,6 @@ This approach prioritizes not just statistical correctness but **human lives** b
 
 ---
 
-##
 <p align="center">
   <span style="font-size:40px;"><strong>Confusion Matrix</strong></span><br/>
 </p>
