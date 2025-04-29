@@ -64,7 +64,7 @@ This approach prioritizes not just statistical correctness but **human lives** b
 ---
 
 ##
-
+*Figure: Confusion matrix showing the relationship between predicted and actual classes.*
 ![NPV Confusion Matrix](confusion_matrix_EN.png)
 
 The Excel-based visual included in this repository shows:
@@ -79,7 +79,7 @@ _Alternative Text (for accessibility):_
 📩 **Contact**
 
 If you have any questions, suggestions, or encounter any issues, feel free to reach out.  
-You can contact me via [LinkedIn](www.linkedin.com/in/emirkan-beyaz-07732933b) or email me at: beyazemirkan01@gmail.com
+You can contact me via [LinkedIn](https://www.linkedin.com/in/emirkan-beyaz-07732933b) or email me at: beyazemirkan01@gmail.com
 
 ---
 
