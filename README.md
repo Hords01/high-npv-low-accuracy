@@ -65,7 +65,7 @@ This approach prioritizes not just statistical correctness but **human lives** b
 
 ##
 <p align="center">
-  <span style="font-size:24px;"><strong>Confusion Matrix</strong></span><br/>
+  <span style="font-size:36px;"><strong>Confusion Matrix</strong></span><br/>
 </p>
 
 ![NPV Confusion Matrix](confusion_matrix_EN.png)
